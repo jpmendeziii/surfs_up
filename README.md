@@ -1,2 +1,2 @@
 # surfs_up
-Pandas, SQLite, VSCode, Flask
+Pandas, SQLite, VSCode, Flask, SQLAlchemy
