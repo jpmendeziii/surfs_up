@@ -7,12 +7,15 @@ Pandas, SQLite, VSCode, Flask, SQLAlchemy
 ### We've learned how to set up and create a Flask application. Now it's time to create our routes so that W. Avy's board of directors can easily access our analysis. We're so close, so stay focused because this will be good stuff! Let's begin by creating a new Python file and importing dependencies our app requires.  W. Avy wants more information about temperature trends before opening the surf shop. Specifically, he wants temperature data for the months of June and December in Oahu, to determine if the surf and ice cream shop business is sustainable year-round.  This new assignment consists of two technical analysis deliverables and a written report. You will submit the following:
 * Deliverable 1: Determine the Summary Statistics for June
 * Deliverable 2: Determine the Summary Statistics for December
-
 ## Results
+### Please see attached code and results of the deliverables below on the subsequent images.
 ![Dependencies_and_D1_123.jpg](Dependencies_and_D1_123.jpg)
 ![D1_45.jpg](D1_45.jpg)
 ![D2_6.jpg](D2_6.jpg)
 ![D2_7.jpg](D2_7.jpg)
 ![D2_89.jpg](D2_89.jpg)
-
+### Listed below are the differences between June and December temperatures in Oahu:
+* 1. There appears to be an increased variance of 15.3% from June to December which points to December weather being more unpredictable.
+* 2. This variance increase in December leads to lower temperatures - predictably with the min temperature at 56 degrees, where the min temp in June is 64 degrees.
+* 3. All statistics for mean, min, 25%, 50% and 75% show a significant lower temperature by 3-4 degrees - depending on the metric.
 ## Summary
