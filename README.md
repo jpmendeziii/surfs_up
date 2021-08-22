@@ -19,3 +19,6 @@ Pandas, SQLite, VSCode, Flask, SQLAlchemy
 * 2. This variance increase in December leads to lower temperatures - predictably with the min temperature at 56 degrees, where the min temp in June is 64 degrees.
 * 3. All statistics for mean, min, 25%, 50% and 75% show a significant lower temperature by 3-4 degrees - depending on the metric.
 ## Summary
+Despite the differences noted between the historical June and December weather temperatures, there really does not appear to be a strong reason for this not to be a 365-day venture given Hawaii's relatively predictable temperature and rainfall patterns.  There are a couple of more things to consider.  
+* 1. The data did not take into account tropical cyclone activity and how that may or may not skew this analysis.
+* 2. There is not enough data to calculate the heat index (i.e., Humidity) and whether that changes the outcome of this summary.
